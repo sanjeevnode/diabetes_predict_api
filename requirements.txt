@@ -10,5 +10,5 @@ numpy
 packaging
 scikit-learn
 scipy
-threadpoolctl=
-Werkzeug=
+threadpoolctl
+Werkzeug
